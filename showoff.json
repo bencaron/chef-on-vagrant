@@ -1,0 +1,8 @@
+{ "name": "Chef et Vagrant",
+"sections": [ 
+    {"section":"intro"},
+    {"section":"vagrant"},
+    {"section":"chef"},
+    {"section":"chefetvagrant"} 
+    ]
+}
